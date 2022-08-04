@@ -9,3 +9,8 @@ void push()
 	//sexy code
 }
 
+void exit()
+{
+	//sexy exit
+}
+
