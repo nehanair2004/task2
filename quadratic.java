@@ -9,10 +9,10 @@ public class quadratic{
     x1=(-b+Math.sqrt(D))/2*a;
     x2=(-b-Math.sqrt(D))/2*a;
 
-    if(D>=0)
+    if(D>0)
         System.out.println(" the roots are: "+x1+" "+x2);
     else
-        System.out.println(" there are no real solutions ");
+        System.out.println(" there are no real solutions here ");
     }
 }
     
