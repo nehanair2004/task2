@@ -1,8 +1,8 @@
 public class quadratic{
 	public static void main(String[]args){
-    int a=1;
-    int b=-7;
-    int c=10;
+    int a=8;
+    int b=-5;
+    int c=1;
     double x1,x2,D;
 
     D=(b*b)-4*a*c;
